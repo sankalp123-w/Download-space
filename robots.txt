@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /api/
+Sitemap: http://videosclub.in/sitemap.xml
